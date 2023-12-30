@@ -5,18 +5,29 @@ import Bookmarks from "./components/Bookmarks/Bookmarks";
 import Header from "./components/Header/Header";
 
 function App() {
+  // use state for bookmarks
   const [bookmarks, setBookmarks] = useState([]);
-  // console.log(bookmarks, setBookmarks);
+  // handle for bookmark button
   const handleBookmarksBtn = (blog) => {
-    // console.log(blog);
     const newBookmarks = [...bookmarks, blog];
     setBookmarks(newBookmarks);
   };
+  // use state for reading time calculation
+  const [readingTime, setReadingTime] = useState(0);
+  // handle for mark as read button
+  const handleReadingBtn = (time) => {
+    const newTime = readingTime + time;
+    setReadingTime(newTime);
+  };
+
   return (
     <>
       <Header></Header>
       <div className="md: flex max-w-6xl mx-auto gap-4">
-        <Blogs handleBookmarksBtn={handleBookmarksBtn}></Blogs>
+        <Blogs
+          handleBookmarksBtn={handleBookmarksBtn}
+          handleReadingBtn={handleReadingBtn}
+        ></Blogs>
         <Bookmarks bookmarks={bookmarks}></Bookmarks>
       </div>
     </>
