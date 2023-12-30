@@ -6,7 +6,8 @@
     "author_name": "John Doe",
     "author_img": "https://i.ibb.co/SVPnh3P/ali-morshedlou-WMD64t-Mfc4k-unsplash.jpg",
     "reading_time": 10,
-    "post_date": "2023-12-29"
+    "post_date": "2023-12-29",
+    "hashtags": ["#Lorem", "#Ipsum"]
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "author_name": "Jane Smith",
     "author_img": "https://i.ibb.co/SQZcmKD/ashwini-chaudhary-monty-Hd-Dc-CBVT3l-E-unsplash.jpg",
     "reading_time": 8,
-    "post_date": "2023-12-28"
+    "post_date": "2023-12-28",
+    "hashtags": ["#Dolor", "#Sit", "#Amet"]
   },
   {
     "id": 3,
@@ -24,7 +26,8 @@
     "author_name": "Alex Johnson",
     "author_img": "https://i.ibb.co/yQbZzg7/brooke-cagle-ICTKcvn-Xx-8-unsplash.jpg",
     "reading_time": 12,
-    "post_date": "2023-12-27"
+    "post_date": "2023-12-27",
+    "hashtags": ["#Consectetur", "#Adipiscing"]
   },
   {
     "id": 4,
@@ -33,7 +36,8 @@
     "author_name": "Emily Brown",
     "author_img": "https://i.ibb.co/Mc6B12P/brooke-cagle-LCc-FI-26di-A-unsplash.jpg",
     "reading_time": 15,
-    "post_date": "2023-12-26"
+    "post_date": "2023-12-26",
+    "hashtags": ["#Sed", "#Eget", "#Elit"]
   },
   {
     "id": 5,
@@ -42,7 +46,8 @@
     "author_name": "Michael Johnson",
     "author_img": "https://i.ibb.co/ykYSQzS/christian-buehner-DIt-Ylc26z-VI-unsplash.jpg",
     "reading_time": 6,
-    "post_date": "2023-12-25"
+    "post_date": "2023-12-25",
+    "hashtags": ["#Vivamus", "#Lacinia"]
   },
   {
     "id": 6,
@@ -51,7 +56,8 @@
     "author_name": "Sophie Anderson",
     "author_img": "https://i.ibb.co/C1Q3HWx/darius-bashar-vzf-HHas-UPk0-unsplash.jpg",
     "reading_time": 9,
-    "post_date": "2023-12-24"
+    "post_date": "2023-12-24",
+    "hashtags": ["#Pellentesque", "#Gravida"]
   },
   {
     "id": 7,
@@ -60,16 +66,18 @@
     "author_name": "William Davis",
     "author_img": "https://i.ibb.co/TPsNWPt/linkedin-sales-solutions-p-At-A8xe-i-VM-unsplash.jpg",
     "reading_time": 11,
-    "post_date": "2023-12-23"
+    "post_date": "2023-12-23",
+    "hashtags": ["#Aenean", "#Commodo"]
   },
   {
     "id": 8,
     "title": "Fusce Euismod Augue",
-    "img": "https://i.ibb.co/RQk9xFN/aerial-view-woman-using-computer-laptop-working-hot-tea-drink.jpghttps://i.ibb.co/RQk9xFN/aerial-view-woman-using-computer-laptop-working-hot-tea-drink.jpghttps://i.ibb.co/RQk9xFN/aerial-view-woman-using-computer-laptop-working-hot-tea-drink.jpg",
+    "img": "https://i.ibb.co/RQk9xFN/aerial-view-woman-using-computer-laptop-working-hot-tea-drink.jpg",
     "author_name": "Olivia Wilson",
     "author_img": "https://i.ibb.co/MMM6fCJ/nazanin-mousavi-572z-AZSf7d-M-unsplash.jpg",
     "reading_time": 7,
-    "post_date": "2023-12-22"
+    "post_date": "2023-12-22",
+    "hashtags": ["#Fusce", "#Euismod", "#Augue"]
   },
   {
     "id": 9,
@@ -78,6 +86,7 @@
     "author_name": "Daniel Martinez",
     "author_img": "https://i.ibb.co/2dSF4z8/marcos-paulo-prado-g-Kq-Iv-UBsx-Ec-unsplash.jpg",
     "reading_time": 13,
-    "post_date": "2023-12-21"
+    "post_date": "2023-12-21",
+    "hashtags": ["#Nullam", "#Consectetur"]
   }
 ]
