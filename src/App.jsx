@@ -28,7 +28,7 @@ function App() {
           handleBookmarksBtn={handleBookmarksBtn}
           handleReadingBtn={handleReadingBtn}
         ></Blogs>
-        <Bookmarks bookmarks={bookmarks}></Bookmarks>
+        <Bookmarks bookmarks={bookmarks} readingTime={readingTime}></Bookmarks>
       </div>
     </>
   );
