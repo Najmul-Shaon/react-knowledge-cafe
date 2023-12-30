@@ -13,10 +13,10 @@ const Blog = ({ blog }) => {
   } = blog;
   console.log(hashtags);
   return (
-    <div>
+    <div className="mb-20">
       <img className="w-full" src={img} alt="" />
       <div className="flex justify-between items-center">
-        <div className="flex items-center">
+        <div className="flex items-center mt-8">
           <div>
             <img className="w-14 rounded-full" src={author_img} alt="" />
           </div>
@@ -32,8 +32,8 @@ const Blog = ({ blog }) => {
           </p>
         </div>
       </div>
-      <h3 className="text-black text-4xl font-bold">{title}</h3>
-      <p>
+      <h3 className="text-black text-4xl font-bold mt-4">{title}</h3>
+      <p className="mt-4">
         {hashtags.map((hash, idx) => (
           <span className="mr-4" key={idx}>
             <a href="">{hash}</a>
