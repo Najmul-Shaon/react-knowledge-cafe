@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "title": "Lorem Ipsum",
+    "img": "https://i.ibb.co/BsBQbMN/modern-monitor-elegant-table.jpg",
+    "author_name": "John Doe",
+    "author_img": "https://i.ibb.co/SVPnh3P/ali-morshedlou-WMD64t-Mfc4k-unsplash.jpg",
+    "reading_time": 10,
+    "post_date": "2023-12-29"
+  },
+  {
+    "id": 2,
+    "title": "Dolor Sit Amet",
+    "img": "https://i.ibb.co/YyHbyKf/one-person-typing-laptop-night-generated-by-ai.jpg",
+    "author_name": "Jane Smith",
+    "author_img": "https://i.ibb.co/SQZcmKD/ashwini-chaudhary-monty-Hd-Dc-CBVT3l-E-unsplash.jpg",
+    "reading_time": 8,
+    "post_date": "2023-12-28"
+  },
+  {
+    "id": 3,
+    "title": "Consectetur Adipiscing",
+    "img": "https://i.ibb.co/9v8fHYH/susan-q-yin-2-JIvbo-GLeho-unsplash.jpg",
+    "author_name": "Alex Johnson",
+    "author_img": "https://i.ibb.co/yQbZzg7/brooke-cagle-ICTKcvn-Xx-8-unsplash.jpg",
+    "reading_time": 12,
+    "post_date": "2023-12-27"
+  },
+  {
+    "id": 4,
+    "title": "Sed Eget Elit",
+    "img": "https://i.ibb.co/3shsx4N/worker-reading-news-with-tablet.jpg",
+    "author_name": "Emily Brown",
+    "author_img": "https://i.ibb.co/Mc6B12P/brooke-cagle-LCc-FI-26di-A-unsplash.jpg",
+    "reading_time": 15,
+    "post_date": "2023-12-26"
+  },
+  {
+    "id": 5,
+    "title": "Vivamus Lacinia",
+    "img": "https://i.ibb.co/H2kq69C/2733678-11990.jpg",
+    "author_name": "Michael Johnson",
+    "author_img": "https://i.ibb.co/ykYSQzS/christian-buehner-DIt-Ylc26z-VI-unsplash.jpg",
+    "reading_time": 6,
+    "post_date": "2023-12-25"
+  },
+  {
+    "id": 6,
+    "title": "Pellentesque Gravida",
+    "img": "https://i.ibb.co/7kj75Dq/12085329-20944157.jpg",
+    "author_name": "Sophie Anderson",
+    "author_img": "https://i.ibb.co/C1Q3HWx/darius-bashar-vzf-HHas-UPk0-unsplash.jpg",
+    "reading_time": 9,
+    "post_date": "2023-12-24"
+  },
+  {
+    "id": 7,
+    "title": "Aenean Commodo",
+    "img": "https://i.ibb.co/yNHh51h/17579105-business-web-banner-23.jpg",
+    "author_name": "William Davis",
+    "author_img": "https://i.ibb.co/TPsNWPt/linkedin-sales-solutions-p-At-A8xe-i-VM-unsplash.jpg",
+    "reading_time": 11,
+    "post_date": "2023-12-23"
+  },
+  {
+    "id": 8,
+    "title": "Fusce Euismod Augue",
+    "img": "https://i.ibb.co/RQk9xFN/aerial-view-woman-using-computer-laptop-working-hot-tea-drink.jpghttps://i.ibb.co/RQk9xFN/aerial-view-woman-using-computer-laptop-working-hot-tea-drink.jpghttps://i.ibb.co/RQk9xFN/aerial-view-woman-using-computer-laptop-working-hot-tea-drink.jpg",
+    "author_name": "Olivia Wilson",
+    "author_img": "https://i.ibb.co/MMM6fCJ/nazanin-mousavi-572z-AZSf7d-M-unsplash.jpg",
+    "reading_time": 7,
+    "post_date": "2023-12-22"
+  },
+  {
+    "id": 9,
+    "title": "Nullam Consectetur",
+    "img": "https://i.ibb.co/9w8dXfh/flat-lay-with-stationery-items-pupil-student-workplace-concept.jpg",
+    "author_name": "Daniel Martinez",
+    "author_img": "https://i.ibb.co/2dSF4z8/marcos-paulo-prado-g-Kq-Iv-UBsx-Ec-unsplash.jpg",
+    "reading_time": 13,
+    "post_date": "2023-12-21"
+  }
+]
